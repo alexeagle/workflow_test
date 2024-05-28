@@ -1,0 +1,9 @@
+name: Aspect Workflows
+
+on:
+    pull_request:
+
+jobs:
+    aspect-workflows:
+        name: Aspect Workflows
+        uses: alexeagle/workflows-action/.github/workflows/aspect.yaml@89256473494f3becda9911d6bab6d41b96144615
