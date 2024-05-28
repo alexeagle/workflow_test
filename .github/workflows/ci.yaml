@@ -6,4 +6,4 @@ on:
 jobs:
     aspect-workflows:
         name: Aspect Workflows
-        uses: alexeagle/workflows-action/.github/workflows/.aspect-workflows-reusable.yaml@a331d3a1327acbba132699787824f258c50100e7
+        uses: alexeagle/workflows-action/.github/workflows/aspect.yaml@89256473494f3becda9911d6bab6d41b96144615
